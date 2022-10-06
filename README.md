@@ -17,3 +17,6 @@ Use ao3 link to a fandom/tag/character/etc to get a pie charts and horizontal ba
 ![image](https://user-images.githubusercontent.com/113987820/194424793-f86d78d3-12a2-40a1-acbe-a548e92bbd63.png)
 ![image](https://user-images.githubusercontent.com/113987820/194424830-67336ef5-6844-412e-89c5-7f26797ae152.png)
 ![image](https://user-images.githubusercontent.com/113987820/194424836-477015a9-eea6-45ed-b46a-3531e4dac102.png)
+![image](https://user-images.githubusercontent.com/113987820/194425644-06e1d71f-226c-4e96-b45c-a96383f5e7f9.png)
+![image](https://user-images.githubusercontent.com/113987820/194425700-fabc6917-8aac-4140-9e87-854779a53bb3.png)
+
